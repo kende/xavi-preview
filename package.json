@@ -3,10 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "mason-library": "^3.2.5",
+    "babel-runtime": "^6.26.0",
+    "mason-library": "^3.2.6",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
-    "react-scripts": "2.1.8"
+    "react-scripts": "2.1.8",
+    "typescript": "*"
   },
   "scripts": {
     "start": "react-scripts start",

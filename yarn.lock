@@ -5385,9 +5385,10 @@ map-visit@^1.0.0:
   dependencies:
     object-visit "^1.0.0"
 
-mason-library@^3.2.5:
-  version "3.2.5"
-  resolved "https://registry.yarnpkg.com/mason-library/-/mason-library-3.2.5.tgz#81f5185ba16f259c5ca8f6ad3cbe7c5082032381"
+mason-library@^3.2.6:
+  version "3.2.6"
+  resolved "https://registry.yarnpkg.com/mason-library/-/mason-library-3.2.6.tgz#7dfcd6aed4f0935f170a44aac80c67f6df214a07"
+  integrity sha512-yuKtIUKNxA9JG9CBgLNqaF8LG7uy8exwOhQXOY3ynJ5Be1azQgFsmqzORkxhatXHlcXlKs1s00WqbfNzZghy3A==
   dependencies:
     enzyme "^3.3.0"
     enzyme-adapter-react-16 "^1.1.1"
@@ -7298,6 +7299,7 @@ react-visibility-sensor@^3.11.0:
 react@^16.8.4:
   version "16.8.4"
   resolved "https://registry.yarnpkg.com/react/-/react-16.8.4.tgz#fdf7bd9ae53f03a9c4cd1a371432c206be1c4768"
+  integrity sha512-0GQ6gFXfUH7aZcjGVymlPOASTuSjlQL4ZtVC5YKH+3JL6bBLCVO21DknzmaPlI90LN253ojj02nsapy+j7wIjg==
   dependencies:
     loose-envify "^1.1.0"
     object-assign "^4.1.1"
@@ -8546,6 +8548,11 @@ type-is@~1.6.16:
 typedarray@^0.0.6:
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
+
+typescript@*:
+  version "3.3.3333"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.3.3333.tgz#171b2c5af66c59e9431199117a3bcadc66fdcfd6"
+  integrity sha512-JjSKsAfuHBE/fB2oZ8NxtRTk5iGcg6hkYXMnZ3Wc+b2RSqejEqTaem11mHASMnFilHrax3sLK0GDzcJrekZYLw==
 
 ua-parser-js@^0.7.18:
   version "0.7.19"
